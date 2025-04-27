@@ -34,7 +34,7 @@ Organizer-side event creation interface is **coming soon**!
 
 ### 2. Signup Page:
 
-![alt text](screenshots\image-1.png)
+![alt text](./screenshots/image-1.png)
 
 ### 3. Events Page (for Audiences):
 
