@@ -30,7 +30,7 @@ Organizer-side event creation interface is **coming soon**!
 
 ### 1. Login Page:
 
-![alt text](screenshots\image.png)
+![alt text](./screenshots/image.png)
 
 ### 2. Signup Page:
 
@@ -39,26 +39,26 @@ Organizer-side event creation interface is **coming soon**!
 ### 3. Events Page (for Audiences):
 
 Clicking on any one of the events would lead to the Events Booking Page:
-![alt text](screenshots\image-2.png)
+![alt text](./screenshots/image-2.png)
 
 ### 4. Event Booking Page (for Audiences):
 
 Before selecting seats:
-![Before selecting seats](screenshots\image-3.png)
+![Before selecting seats](./screenshots/image-3.png)
 
 After selecting seats:
-![After selecting seats](screenshots\image-4.png)
+![After selecting seats](./screenshots/image-4.png)
 
 Available seats get updated automatically and booked seats get blocked:
-![Available seats get updated automatically and booked seats get blocked](screenshots\image-5.png)
+![Available seats get updated automatically and booked seats get blocked](./screenshots/image-5.png)
 
 Ticket of this format gets downloaded:
-![Ticket of this format gets downloaded](screenshots\image-6.png)
+![Ticket of this format gets downloaded](./screenshots/image-6.png)
 
 ### 5. My Bookings Page:
 
 Allows cancelling a ticket:
-![Allows cancelling a ticket](screenshots\image-7.png)
+![Allows cancelling a ticket](./screenshots/image-7.png)
 
 ---
 
