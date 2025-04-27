@@ -148,7 +148,7 @@ const EventPage = () => {
         <div className="w-full text-center">
           {selected.length > 0 && (
             <p className="mb-2 text-sm text-gray-800">
-              Selected Seats: {selected.map(getSeatId).join(", ")}
+              Selected Seats: {selected.slice().sort().join(", ")}
             </p>
           )}
           <button

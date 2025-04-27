@@ -34,6 +34,26 @@ Organizer-side event creation interface is **coming soon**!
 
 ### 2. Signup Page:
 
+![alt text](image-1.png)
+
+### 3. Events Page (for Audiences):
+
+![alt text](image-2.png)
+
+### 4. Event Booking Page (for Audiences):
+
+![Before selecting seats](image-3.png)
+
+![After selecting seats](image-4.png)
+
+![Available seats get updated automatically and booked seats get blocked](image-5.png)
+
+![Ticket of this format gets downloaded](image-6.png)
+
+### 5. My Bookings Page:
+
+![Allows cancelling a ticket](image-7.png)
+
 ---
 
 ## 📁 Project Structure
